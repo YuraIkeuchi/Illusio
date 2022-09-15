@@ -522,6 +522,7 @@ void Object3d::Shot(int isAlive, XMFLOAT3 position1, XMFLOAT3 position2, int Ran
 		position1.x = -65.0f;
 	}
 
+
 	else if (RandLane == 1) {
 		position1.x = -50.0f;
 	}
